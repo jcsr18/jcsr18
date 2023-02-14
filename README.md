@@ -7,9 +7,3 @@
 </h1>
 
 - Desenvolvedor backend com foco no PHP e na framework Laravel
-
-- Brasileiro 🇧🇷
-
-- Técnico em Desenvolvimento de Sistemas - ETEC Raphael Brandão
-
-- Cursando Sistema de Informação - UNIFRAN
