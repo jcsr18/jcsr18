@@ -3,7 +3,7 @@
 
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![Typescript](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 </h1>
 
