@@ -8,3 +8,6 @@
 </h1>
 
 - Desenvolvedor backend com foco no PHP e na framework Laravel
+
+
+https://www.linkedin.com/in/julio-silva-a868b0182/
